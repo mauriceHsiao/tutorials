@@ -1,3 +1,4 @@
+#coding:utf-8
 """
 To know more or get code samples, please visit my website:
 https://morvanzhou.github.io/tutorials/
